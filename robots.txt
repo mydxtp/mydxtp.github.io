@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mydxtp.github.io/sitemap.html.gz
+Sitemap: https://mydxtp.github.io/app/sitemap.html.gz
+Sitemap: https://mydxtp.github.io/assets/sitemap.html.gz
+Sitemap: https://mydxtp.github.io/css/sitemap.html.gz
+Sitemap: https://mydxtp.github.io/includes/sitemap.html.gz
+Sitemap: https://mydxtp.github.io/item/sitemap.html.gz
+Sitemap: https://mydxtp.github.io/src/sitemap.html.gz
